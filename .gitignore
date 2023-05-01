@@ -1,0 +1,4 @@
+models/*
+*.pt
+*.jpg
+*.txt
